@@ -505,5 +505,16 @@
     "country": "Estados Unidos",
     "category": "Tecnologia",
     "curiosity": "Hoje está em celulares e jogos."
-  }
+  },
+  {
+  "name": "Chuveiro Elétrico",
+  "inventor": "Francisco Canhos",
+  "year": 1927,
+  "description": "O chuveiro elétrico aquece a água instantaneamente usando energia elétrica.",
+  "objectImageUrl": "",
+  "inventorImageUrl": "",
+  "country": "Brasil",
+  "category": "Casa",
+  "curiosity": "É muito comum no Brasil por ser prático e econômico."
+}
 ]
