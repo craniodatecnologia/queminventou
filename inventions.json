@@ -2342,5 +2342,27 @@
   "country": "Reino Unido",
   "category": "Segurança",
   "curiosity": "O primeiro extintor moderno usava potássio e água, e o inventor teve a ideia após ver bombeiros que não conseguiam alcançar os andares mais altos de um prédio em chamas."
+},
+{
+  "name": "Motocicleta",
+  "inventor": "Gottlieb Daimler e Wilhelm Maybach",
+  "year": 1885,
+  "description": "Veículo de duas rodas movido por um motor, rápido e prático.",
+  "objectImageUrl": "",
+  "inventorImageUrl": "",
+  "country": "Alemanha",
+  "category": "Transporte",
+  "curiosity": "A primeira moto do mundo era feita quase toda de madeira, até as rodas!"
+},
+{
+  "name": "Capacete",
+  "inventor": "Gottlieb Daimler",
+  "year": 1885,
+  "description": "Equipamento de proteção para a cabeça usado por motoristas e esportistas.",
+  "objectImageUrl": "https://images.unsplash.com/photo-1599819811279-d5ad9cccf838?q=80&w=500",
+  "inventorImageUrl": "",
+  "country": "Alemanha",
+  "category": "Segurança",
+  "curiosity": "Os primeiros capacetes eram feitos de couro ou metal; hoje são feitos de materiais muito leves que absorvem impactos fortes."
 }
 ]
