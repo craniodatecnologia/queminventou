@@ -2320,6 +2320,17 @@
     "country": "Estados Unidos",
     "category": "Alimentação",
     "curiosity": "Foi inventada por acidente! O cozinheiro ficou bravo com um cliente e cortou as batatas tão finas que nem dava para usar o garfo."
+  },
+  {
+    "name": "Baú",
+    "inventor": "Antigos Egípcios",
+    "year": -3000,
+    "description": "Caixa resistente com tampa usada para guardar e transportar tesouros, roupas e objetos.",
+    "objectImageUrl": "",
+    "inventorImageUrl": "",
+    "country": "Egito",
+    "category": "Casa",
+    "curiosity": "Antes de existirem os guarda-roupas e as gavetas, as pessoas guardavam tudo o que tinham dentro de baús de madeira."
   }
 ]
 
