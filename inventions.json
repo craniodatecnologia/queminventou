@@ -2331,6 +2331,17 @@
     "country": "Egito",
     "category": "Casa",
     "curiosity": "Antes de existirem os guarda-roupas e as gavetas, as pessoas guardavam tudo o que tinham dentro de baús de madeira."
-  }
+  },
+  {
+  "name": "Extintor de Incêndio",
+  "inventor": "George William Manby",
+  "year": 1813,
+  "description": "Equipamento portátil usado para apagar pequenos fogos em emergências.",
+  "objectImageUrl": "https://images.unsplash.com/photo-1596720426673-e48cb1478d4e?q=80&w=500",
+  "inventorImageUrl": "",
+  "country": "Reino Unido",
+  "category": "Segurança",
+  "curiosity": "O primeiro extintor moderno usava potássio e água, e o inventor teve a ideia após ver bombeiros que não conseguiam alcançar os andares mais altos de um prédio em chamas."
+}
 ]
 
