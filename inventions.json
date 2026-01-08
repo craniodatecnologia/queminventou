@@ -2373,7 +2373,7 @@
     "objectImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wheeler_Electric_Fan_1882.jpg/800px-Wheeler_Electric_Fan_1882.jpg",
     "inventorImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Schuyler_Skaats_Wheeler.jpg",
     "country": "Estados Unidos",
-    "category": "Eletrodomésticos / Climatização",
+    "category": "Eletrodomésticos",
     "curiosity": "Antes do modelo de Wheeler, os ventiladores eram movidos a corda, água ou vapor. O primeiro modelo elétrico tinha apenas duas pás e não possuía grade de proteção!"
 },
 {
@@ -2395,7 +2395,7 @@
   "objectImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Slinky_marbles.jpg/800px-Slinky_marbles.jpg",
   "inventorImageUrl": "",
   "country": "Estados Unidos",
-  "category": "Entretenimento / Brinquedos",
+  "category": "Brinquedos",
   "curiosity": "Richard era um engenheiro naval tentando criar uma mola para estabilizar instrumentos sensíveis em navios. Ele derrubou um protótipo de uma prateleira e ficou fascinado ao ver a mola 'dar um passo' e se empilhar sozinha no chão em vez de apenas cair!"
 },
 {
@@ -2417,7 +2417,7 @@
   "objectImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bubble_wrap.jpg/800px-Bubble_wrap.jpg",
   "inventorImageUrl": "",
   "country": "Estados Unidos",
-  "category": "Materiais / Embalagem",
+  "category": "Materiais",
   "curiosity": "Os inventores estavam tentando criar um papel de parede 3D (com textura)! Como ninguém quis colar plástico com bolhas na parede, eles tentaram vender como isolamento para estufas, o que também falhou. Só três anos depois perceberam que era perfeito para proteger objetos frágeis."
 },
 {
@@ -2450,7 +2450,7 @@
   "objectImageUrl": "",
   "inventorImageUrl": "",
   "country": "Estados Unidos",
-  "category": "Materiais / Ferramentas",
+  "category": "Ferramentas",
   "curiosity": "Dr. Coover estava tentando criar plástico transparente para miras de armas na 2ª Guerra Mundial. Ele desistiu porque o material era 'péssimo': grudava em tudo o que tocava e não soltava mais! Anos depois, ele percebeu que aquele 'erro' era, na verdade, a cola mais forte já feita."
 },
 {
@@ -2461,7 +2461,7 @@
   "objectImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Play-Doh_Logo.svg/800px-Play-Doh_Logo.svg.png",
   "inventorImageUrl": "",
   "country": "Estados Unidos",
-  "category": "Entretenimento / Brinquedos",
+  "category": "Brinquedos",
   "curiosity": "Antes de ser brinquedo, ela era uma massa cinza usada para limpar fuligem de carvão das paredes de papel das casas. Quando as casas pararam de usar carvão, a empresa quase faliu, até que descobriram que crianças em escolas estavam usando a massa para fazer arte. Eles adicionaram cores e um cheirinho de baunilha, e ela virou um sucesso!"
 },
 {
@@ -2483,7 +2483,7 @@
   "objectImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Squeegee.jpg/800px-Squeegee.jpg",
   "inventorImageUrl": "",
   "country": "Itália / Estados Unidos",
-  "category": "Casa / Limpeza",
+  "category": "Casa",
   "curiosity": "Antes de Steccone, os rodos eram feitos de aço pesado e tinham dois parafusos que arranhavam os vidros. Ettore, que era um limpador de janelas, inventou um modelo leve de alumínio com uma borracha tão boa que a sua empresa ainda é líder mundial hoje!"
 }
 ]
