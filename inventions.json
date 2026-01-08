@@ -2375,5 +2375,16 @@
     "country": "Estados Unidos",
     "category": "Eletrodomésticos / Climatização",
     "curiosity": "Antes do modelo de Wheeler, os ventiladores eram movidos a corda, água ou vapor. O primeiro modelo elétrico tinha apenas duas pás e não possuía grade de proteção!"
+},
+{
+  "name": "Cubo Mágico (Cubo de Rubik)",
+  "inventor": "Ernő Rubik",
+  "year": 1974,
+  "description": "Um quebra-cabeça tridimensional composto por faces de cores diferentes que devem ser alinhadas.",
+  "objectImageUrl": "",
+  "inventorImageUrl": "",
+  "country": "Hungria",
+  "category": "Entretenimento",
+  "curiosity": "O inventor era um professor de arquitetura que queria um modelo para ajudar seus alunos a entenderem objetos 3D. Depois de criar o cubo e embaralhá-lo, o próprio Ernő Rubik demorou um mês inteiro para conseguir resolvê-lo pela primeira vez!"
 }
 ]
