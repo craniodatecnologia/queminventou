@@ -2430,5 +2430,27 @@
   "country": "Estados Unidos",
   "category": "Alimentação",
   "curiosity": "Antes de ser o molho das batatas fritas, o ketchup de tomate era vendido em farmácias como remédio para tratar indigestão e diarreia! Ele era vendido em forma de pílulas. Só décadas depois ele se tornou o condimento popular que conhecemos hoje."
+},
+{
+  "name": "Cereais Matinais (Corn Flakes)",
+  "inventor": "Irmãos Kellogg",
+  "year": 1894,
+  "description": "Flocos de milho torrados servidos com leite, tornando-se um café da manhã rápido e nutritivo.",
+  "objectImageUrl": "https://cdn.pixabay.com/photo/2016/08/25/16/09/corn-flakes-1619891_1280.jpg",
+  "inventorImageUrl": "",
+  "country": "Estados Unidos",
+  "category": "Alimentação",
+  "curiosity": "Os irmãos Kellogg esqueceram uma panela de trigo cozido no fogo. O grão ficou velho e duro, e quando tentaram passá-lo por rolos para fazer massa, ele se despedaçou em milhares de flocos. Eles decidiram assar esses flocos e assim nasceu o cereal mais famoso do mundo!"
+},
+{
+  "name": "Super Bonder (Adesivo Instantâneo)",
+  "inventor": "Harry Coover",
+  "year": 1942,
+  "description": "Cola de secagem extremamente rápida e forte que adere a quase qualquer superfície.",
+  "objectImageUrl": "",
+  "inventorImageUrl": "",
+  "country": "Estados Unidos",
+  "category": "Materiais / Ferramentas",
+  "curiosity": "Dr. Coover estava tentando criar plástico transparente para miras de armas na 2ª Guerra Mundial. Ele desistiu porque o material era 'péssimo': grudava em tudo o que tocava e não soltava mais! Anos depois, ele percebeu que aquele 'erro' era, na verdade, a cola mais forte já feita."
 }
 ]
