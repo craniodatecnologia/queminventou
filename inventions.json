@@ -1629,11 +1629,11 @@
     "curiosity": "Permite 'recortar e colar' DNA."
   },
   {
-    "name": "Vacina de RNAm",
+    "name": "Vacina de mRNA",
     "inventor": "Katalin Karikó",
     "year": 2020,
     "description": "Nova tecnologia de vacinas (ex: COVID-19).",
-    "objectImageUrl": "",
+    "objectImageUrl": "https://www.rbsdirect.com.br/filestore/2/4/1/2/1/5/5_b123f3e8b542add/5512142_55fe4b69a1ce241.jpg?format=webp&w=1600&h=1200&a=c",
     "inventorImageUrl": "",
     "country": "Hungria/EUA",
     "category": "Saúde",
