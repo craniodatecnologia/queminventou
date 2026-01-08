@@ -2463,5 +2463,16 @@
   "country": "Estados Unidos",
   "category": "Entretenimento / Brinquedos",
   "curiosity": "Antes de ser brinquedo, ela era uma massa cinza usada para limpar fuligem de carvão das paredes de papel das casas. Quando as casas pararam de usar carvão, a empresa quase faliu, até que descobriram que crianças em escolas estavam usando a massa para fazer arte. Eles adicionaram cores e um cheirinho de baunilha, e ela virou um sucesso!"
+},
+{
+  "name": "Vassoura de Sorgo (Moderna)",
+  "inventor": "Levi Dickinson",
+  "year": 1797,
+  "description": "Agricultor que revolucionou a limpeza ao usar cerdas de sorgo (uma planta resistente) amarradas a um cabo.",
+  "objectImageUrl": "",
+  "inventorImageUrl": "",
+  "country": "Estados Unidos",
+  "category": "Casa / Limpeza",
+  "curiosity": "Antes de Levi, as vassouras eram galhos de bétula amarrados que limpavam muito mal. Ele fez a primeira para sua esposa, mas ela ficou tão famosa que ele passou a fabricar centenas por ano!"
 }
 ]
