@@ -2452,5 +2452,16 @@
   "country": "Estados Unidos",
   "category": "Materiais / Ferramentas",
   "curiosity": "Dr. Coover estava tentando criar plástico transparente para miras de armas na 2ª Guerra Mundial. Ele desistiu porque o material era 'péssimo': grudava em tudo o que tocava e não soltava mais! Anos depois, ele percebeu que aquele 'erro' era, na verdade, a cola mais forte já feita."
+},
+{
+  "name": "Massinha de Modelar (Play-Doh)",
+  "inventor": "Noah McVicker e Joseph McVicker",
+  "year": 1956,
+  "description": "Massa maleável e colorida usada por crianças para criar formas e figuras.",
+  "objectImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Play-Doh_Logo.svg/800px-Play-Doh_Logo.svg.png",
+  "inventorImageUrl": "",
+  "country": "Estados Unidos",
+  "category": "Entretenimento / Brinquedos",
+  "curiosity": "Antes de ser brinquedo, ela era uma massa cinza usada para limpar fuligem de carvão das paredes de papel das casas. Quando as casas pararam de usar carvão, a empresa quase faliu, até que descobriram que crianças em escolas estavam usando a massa para fazer arte. Eles adicionaram cores e um cheirinho de baunilha, e ela virou um sucesso!"
 }
 ]
