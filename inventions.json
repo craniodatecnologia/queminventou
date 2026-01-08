@@ -2386,5 +2386,49 @@
   "country": "Hungria",
   "category": "Entretenimento",
   "curiosity": "O inventor era um professor de arquitetura que queria um modelo para ajudar seus alunos a entenderem objetos 3D. Depois de criar o cubo e embaralhá-lo, o próprio Ernő Rubik demorou um mês inteiro para conseguir resolvê-lo pela primeira vez!"
+},
+{
+  "name": "Mola Maluca (Slinky)",
+  "inventor": "Richard James",
+  "year": 1943,
+  "description": "Uma mola helicoidal que pode 'caminhar' descendo degraus conforme a gravidade e sua própria energia.",
+  "objectImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Slinky_marbles.jpg/800px-Slinky_marbles.jpg",
+  "inventorImageUrl": "",
+  "country": "Estados Unidos",
+  "category": "Entretenimento / Brinquedos",
+  "curiosity": "Richard era um engenheiro naval tentando criar uma mola para estabilizar instrumentos sensíveis em navios. Ele derrubou um protótipo de uma prateleira e ficou fascinado ao ver a mola 'dar um passo' e se empilhar sozinha no chão em vez de apenas cair!"
+},
+{
+  "name": "Curativo Adesivo (Band-Aid)",
+  "inventor": "Earle Dickson",
+  "year": 1920,
+  "description": "Pequenas tiras de gaze com fita adesiva para proteger cortes leves.",
+  "objectImageUrl": "https://cdn.pixabay.com/photo/2012/04/13/13/11/bandage-32341_1280.png",
+  "inventorImageUrl": "",
+  "country": "Estados Unidos",
+  "category": "Saúde",
+  "curiosity": "A esposa de Earle, Josephine, cortava-se ou queimava-se com frequência na cozinha. Naquela época, as bandagens eram grandes e difíceis de colocar sozinho. Earle preparou tiras prontas com gaze e fita adesiva para que ela pudesse se curar com apenas uma mão!"
+},
+{
+  "name": "Plástico Bolha",
+  "inventor": "Alfred Fielding e Marc Chavannes",
+  "year": 1957,
+  "description": "Material de embalagem feito de duas camadas de polietileno com bolhas de ar presas entre elas.",
+  "objectImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bubble_wrap.jpg/800px-Bubble_wrap.jpg",
+  "inventorImageUrl": "",
+  "country": "Estados Unidos",
+  "category": "Materiais / Embalagem",
+  "curiosity": "Os inventores estavam tentando criar um papel de parede 3D (com textura)! Como ninguém quis colar plástico com bolhas na parede, eles tentaram vender como isolamento para estufas, o que também falhou. Só três anos depois perceberam que era perfeito para proteger objetos frágeis."
+},
+{
+  "name": "Ketchup",
+  "inventor": "Dr. John Cook Bennett",
+  "year": 1834,
+  "description": "Molho condimentado à base de tomate, açúcar e vinagre.",
+  "objectImageUrl": "https://cdn.pixabay.com/photo/2016/04/16/04/55/ketchup-1332463_1280.png",
+  "inventorImageUrl": "",
+  "country": "Estados Unidos",
+  "category": "Alimentação",
+  "curiosity": "Antes de ser o molho das batatas fritas, o ketchup de tomate era vendido em farmácias como remédio para tratar indigestão e diarreia! Ele era vendido em forma de pílulas. Só décadas depois ele se tornou o condimento popular que conhecemos hoje."
 }
 ]
