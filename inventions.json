@@ -2364,5 +2364,16 @@
   "country": "Alemanha",
   "category": "Segurança",
   "curiosity": "Os primeiros capacetes eram feitos de couro ou metal; hoje são feitos de materiais muito leves que absorvem impactos fortes."
+},
+{
+    "name": "Ventilador Elétrico",
+    "inventor": "Schuyler Skaats Wheeler",
+    "year": 1882,
+    "description": "O ventilador elétrico utiliza um motor para girar pás e criar um fluxo de ar, revolucionando o conforto térmico em ambientes fechados.",
+    "objectImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wheeler_Electric_Fan_1882.jpg/800px-Wheeler_Electric_Fan_1882.jpg",
+    "inventorImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Schuyler_Skaats_Wheeler.jpg",
+    "country": "Estados Unidos",
+    "category": "Eletrodomésticos / Climatização",
+    "curiosity": "Antes do modelo de Wheeler, os ventiladores eram movidos a corda, água ou vapor. O primeiro modelo elétrico tinha apenas duas pás e não possuía grade de proteção!"
 }
 ]
