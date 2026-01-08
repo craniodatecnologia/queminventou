@@ -2474,5 +2474,16 @@
   "country": "Estados Unidos",
   "category": "Casa",
   "curiosity": "Antes de Levi, as vassouras eram galhos de bétula amarrados que limpavam muito mal. Ele fez a primeira para sua esposa, mas ela ficou tão famosa que ele passou a fabricar centenas por ano!"
+},
+{
+  "name": "Rodo (Squeegee)",
+  "inventor": "Ettore Steccone",
+  "year": 1936,
+  "description": "Ferramenta com uma lâmina de borracha flexível usada para remover líquidos de superfícies planas.",
+  "objectImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Squeegee.jpg/800px-Squeegee.jpg",
+  "inventorImageUrl": "",
+  "country": "Itália / Estados Unidos",
+  "category": "Casa / Limpeza",
+  "curiosity": "Antes de Steccone, os rodos eram feitos de aço pesado e tinham dois parafusos que arranhavam os vidros. Ettore, que era um limpador de janelas, inventou um modelo leve de alumínio com uma borracha tão boa que a sua empresa ainda é líder mundial hoje!"
 }
 ]
