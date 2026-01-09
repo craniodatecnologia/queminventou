@@ -2474,5 +2474,16 @@
   "country": "Itália / Estados Unidos",
   "category": "Casa",
   "curiosity": "Antes de Steccone, os rodos eram feitos de aço pesado e tinham dois parafusos que arranhavam os vidros. Ettore, que era um limpador de janelas, inventou um modelo leve de alumínio com uma borracha tão boa que a sua empresa ainda é líder mundial hoje!"
+},
+{
+  "name": "Saxofone",
+  "inventor": "Adolphe Sax",
+  "year": 1846,
+  "description": "Instrumento de sopro feito de metal, mas que utiliza uma palheta de madeira, combinando características de metais e madeiras.",
+  "objectImageUrl": "https://cdn.pixabay.com/photo/2013/07/12/18/39/saxophone-153640_1280.png",
+  "inventorImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Adolphe_Sax_1860.jpg",
+  "country": "Bélgica",
+  "category": "Música",
+  "curiosity": "Adolphe Sax queria criar um instrumento que fosse o mais equilibrado de todos: potente como os metais (trompete), mas ágil como as madeiras (clarinete). No início, ele foi ridicularizado por outros músicos e quase faliu!"
 }
 ]
