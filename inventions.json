@@ -109,7 +109,6 @@
     "category": "Indústria",
     "curiosity": "Ela funcionava aquecendo água para gerar vapor."
   },
-
   {
     "name": "Eletricidade",
     "inventor": "Benjamin Franklin",
@@ -225,7 +224,7 @@
     "inventor": "Vint Cerf",
     "year": 1969,
     "description": "Conectou o mundo inteiro.",
-    "objectImageUrl": "",
+    "objectImageUrl": "https://i0.wp.com/segredosdomundo.r7.com/wp-content/uploads/2020/12/historia-da-internet-a-evolucao-da-rede-da-guerra-fria-aos-dias-atuais.jpg?w=1920&quality=89&ssl=1",
     "inventorImageUrl": "",
     "country": "Estados Unidos",
     "category": "Tecnologia",
