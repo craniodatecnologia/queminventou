@@ -199,16 +199,16 @@
   "curiosity": "O ENIAC pesava 30 toneladas e usava 18.000 válvulas de vácuo. Quando era ligado, as luzes da cidade de Filadélfia chegavam a piscar devido ao enorme consumo de energia!"
   },
   {
-  "name": "ENIAC (Primeiro Computador Digital)",
-  "inventor": "John Mauchly e J. Presper Eckert",
-  "year": 1945,
-  "description": "O primeiro computador digital eletrônico de propósito geral e programável.",
-  "objectImageUrl": "",
-  "inventorImageUrl": "",
-  "country": "Estados Unidos",
-  "category": "Tecnologia",
-  "curiosity": "O ENIAC pesava 30 toneladas e usava 18.000 válvulas de vácuo. Quando era ligado, as luzes da cidade de Filadélfia chegavam a piscar devido ao enorme consumo de energia!"
-  },
+  "name": "Máquina Analítica (Computador Mecânico)",
+  "inventor": "Charles Babbage",
+  "year": 1837,
+  "description": "O primeiro design de um computador de propósito geral, capaz de realizar qualquer cálculo matemático através de engrenagens.",
+  "objectImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Analytical_Engine_Babbage_London.jpg/800px-Analytical_Engine_Babbage_London.jpg",
+  "inventorImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Charles_Babbage_1860.jpg",
+  "country": "Reino Unido",
+  "category": "Tecnologia / História",
+  "curiosity": "Embora Babbage nunca tenha terminado de construí-la por falta de verbas, seu projeto tinha partes que chamamos hoje de CPU e memória. A matemática Ada Lovelace escreveu o primeiro algoritmo para essa máquina, tornando-se a primeira programadora da história!"
+},
   {
   "name": "The Bombe (Máquina de Descriptografia)",
   "inventor": "Alan Turing e Gordon Welchman",
