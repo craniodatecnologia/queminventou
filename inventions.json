@@ -188,16 +188,38 @@
     "curiosity": "Era movido a gasolina."
   },
   {
-    "name": "Computador",
-    "inventor": "Alan Turing",
-    "year": 1936,
-    "description": "Base da computação moderna.",
-    "objectImageUrl": "",
-    "inventorImageUrl": "",
-    "country": "Reino Unido",
-    "category": "Tecnologia",
-    "curiosity": "Os primeiros ocupavam salas inteiras."
+  "name": "ENIAC (Primeiro Computador Digital)",
+  "inventor": "John Mauchly e J. Presper Eckert",
+  "year": 1945,
+  "description": "O primeiro computador digital eletrônico de propósito geral e programável.",
+  "objectImageUrl": "",
+  "inventorImageUrl": "",
+  "country": "Estados Unidos",
+  "category": "Tecnologia",
+  "curiosity": "O ENIAC pesava 30 toneladas e usava 18.000 válvulas de vácuo. Quando era ligado, as luzes da cidade de Filadélfia chegavam a piscar devido ao enorme consumo de energia!"
   },
+  {
+  "name": "ENIAC (Primeiro Computador Digital)",
+  "inventor": "John Mauchly e J. Presper Eckert",
+  "year": 1945,
+  "description": "O primeiro computador digital eletrônico de propósito geral e programável.",
+  "objectImageUrl": "",
+  "inventorImageUrl": "",
+  "country": "Estados Unidos",
+  "category": "Tecnologia",
+  "curiosity": "O ENIAC pesava 30 toneladas e usava 18.000 válvulas de vácuo. Quando era ligado, as luzes da cidade de Filadélfia chegavam a piscar devido ao enorme consumo de energia!"
+  },
+  {
+  "name": "The Bombe (Máquina de Descriptografia)",
+  "inventor": "Alan Turing e Gordon Welchman",
+  "year": 1940,
+  "description": "Um dispositivo eletromecânico usado pelos decifradores britânicos para descobrir as configurações das máquinas Enigma alemãs.",
+  "objectImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bletchley_Park_Bombe.jpg/800px-Bletchley_Park_Bombe.jpg",
+  "inventorImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg",
+  "country": "Reino Unido",
+  "category": "Tecnologia",
+  "curiosity": "Esta máquina não era um computador para 'uso geral', ela servia apenas para quebrar códigos. Graças a ela, estima-se que a guerra foi encurtada em pelo menos dois anos, salvando milhões de vidas!"
+}
   {
     "name": "Internet",
     "inventor": "Vint Cerf",
